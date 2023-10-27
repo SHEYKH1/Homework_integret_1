@@ -1,4 +1,2 @@
 a=int(input())
-b=int(input())
-p=a/b
-print(p)
+print(a/100)
